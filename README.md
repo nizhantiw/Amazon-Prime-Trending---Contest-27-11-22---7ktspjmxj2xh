@@ -1,3 +1,4 @@
+##Nishant Kumar(nizhantiw)
 # React: Slideshow App
 
 ### Requirements: 
